@@ -1,7 +1,10 @@
-### Hi there 👋
+## Currently exploring the realm of robotics :robot:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhquan18&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anhquan18&theme=zenburn) 
+<p>
+     <img width="328" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anhquan18&theme=zenburn">
+     <img width="676" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhquan18&theme=zenburn"> 
+<p/>
+
 <!--
 **anhquan18/anhquan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

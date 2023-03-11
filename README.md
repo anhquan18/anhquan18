@@ -1,8 +1,10 @@
 ## Currently exploring the realm of robotics :robot:
 
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhquan18&theme=zenburn"> 
+
 <p>
-     <img width="252" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anhquan18&theme=zenburn">
-     <img width="522" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhquan18&theme=zenburn"> 
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anhquan18&theme=zenburn">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhquan18&theme=zenburn">
 <p/>
 
 <!--
